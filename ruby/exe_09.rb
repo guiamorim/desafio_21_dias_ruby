@@ -47,3 +47,4 @@ while opcao != 4 do
     system 'clear'
     puts alunos
 end
+teste
